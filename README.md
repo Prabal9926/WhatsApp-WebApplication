@@ -1,6 +1,5 @@
 # WhatsApp-WebApplication
 
-# WhatsChat
 
 ## Overview
 
