@@ -50,5 +50,5 @@ _Note: Make sure the date format is 12-hour format._
 
 ## Deployment
 
-WhatsChat is deployed on **Streamlit**, which is a platform for building and sharing data apps. **WhatsChat** uses _Streamlit_'s web application framework to provide an interactive and easy-to-use interface for analyzing your chat data.
+WhatsChat is deployed on **Streamlit**, which is a platform for building and sharing data apps. **Digital Chugali** uses _Streamlit_'s web application framework to provide an interactive and easy-to-use interface for analyzing your chat data.
 
