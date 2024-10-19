@@ -1,17 +1,17 @@
 # WhatsApp-WebApplication
 
-#Overview
-WhatsChat is a WhatsApp Chat Analyzer that provides fun insights about your chats. The project was created from scratch and uses various libraries such as Matplotlib, Urlextract, Pandas, Collections, Regex, and Datetime to extract and analyze chat data.
+# Overview
+* WhatsChat is a WhatsApp Chat Analyzer that provides fun insights about your chats. The project was created from scratch and uses various libraries such as Matplotlib, Urlextract, Pandas, Collections, Regex, and Datetime to extract and analyze chat data.
 
 # Technology Used
-Python
-Matplotlib
-URLExtract
-Pandas
-Collections
-Regex
-Datetime
-Streamlit
+* Python
+* Matplotlib
+* URLExtract
+* Pandas
+* Collections
+* Regex
+* Datetime
+* Streamlit
 
 
 # Features
@@ -30,4 +30,5 @@ M**onthly Timeline:** Provides activity details for each month.
 **Emoji Analysis:** Shows the most frequently used emojis.
 **Messages Extractor:** Extracts messages for a specific date.
 **Reply Time Analysis:** Shows how much time each person takes to reply to a message.
+#
 You can perform all these analyses on group chats as well as individual chats.
