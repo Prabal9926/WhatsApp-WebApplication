@@ -1,34 +1,54 @@
 # WhatsApp-WebApplication
 
-# Overview
-* WhatsChat is a WhatsApp Chat Analyzer that provides fun insights about your chats. The project was created from scratch and uses various libraries such as Matplotlib, Urlextract, Pandas, Collections, Regex, and Datetime to extract and analyze chat data.
+# WhatsChat
 
-# Technology Used
-* Python
-* Matplotlib
-* URLExtract
-* Pandas
-* Collections
-* Regex
-* Datetime
-* Streamlit
+## Overview
 
+**WhatsChat** is a _WhatsApp Chat Analyzer_ that provides fun insights about your chats. The project was created from scratch and uses various libraries such as Matplotlib, Urlextract, Pandas, Collections, Regex, and Datetime to extract and analyze chat data.
 
-# Features
+## Technology Used
+
+- Python
+- Matplotlib
+- URLExtract
+- Pandas
+- Collections
+- Regex
+- Datetime
+- Streamlit
+
+## Features
+
 WhatsChat provides various features to analyze your chats, including:
 
-**Top Statistics:** Total messages, words, media shared, and links shared.
-M**onthly Timeline:** Provides activity details for each month.
-**Daily Timeline:** Provides activity details for each date.
-**Week Activity:** Provides activity details for each day of the week.
-**Month Activity:** Provides activity details for each month.
-**Hour Activity:** Shows the most and least active hours.
-**Day-wise Activity:** Shows the most and least active days.
-**Activity by Time Period:** Shows activity details for a specific time period.
-**Top Chatters:** Shows who chats the most in the group.
-**Top Words Used:** Shows the most frequently used words.
-**Emoji Analysis:** Shows the most frequently used emojis.
-**Messages Extractor:** Extracts messages for a specific date.
-**Reply Time Analysis:** Shows how much time each person takes to reply to a message.
-#
+- _Top Statistics_: Total messages, words, media shared, and links shared.
+- _Monthly Timeline_: Provides activity details for each month.
+- _Daily Timeline_: Provides activity details for each date.
+- _Week Activity_: Provides activity details for each day of the week.
+- _Month Activity_: Provides activity details for each month.
+- _Hour Activity_: Shows the most and least active hours.
+- _Day-wise Activity_: Shows the most and least active days.
+- _Activity by Time Period_: Shows activity details for a specific time period.
+- _Top Chatters_: Shows who chats the most in the group.
+- _Top Words Used_: Shows the most frequently used words.
+- _Emoji Analysis_: Shows the most frequently used emojis.
+- _Messages Extractor_: Extracts messages for a specific date.
+- _Reply Time Analysis_: Shows how much time each person takes to reply to a message.
+
 You can perform all these analyses on group chats as well as individual chats.
+
+
+## Usage
+
+To use WhatsChat, follow these steps:
+
+- Extract the chat data from WhatsApp by going to the chat you want to analyze, clicking on the three dots, selecting "More," selecting "Export Chat," and downloading the chat.
+- Visit the WhatsChat link and upload the chat data.
+- Enjoy the insights!
+
+_Note: Make sure the date format is 12-hour format._
+
+## Deployment
+
+WhatsChat is deployed on **Streamlit**, which is a platform for building and sharing data apps. **WhatsChat** uses _Streamlit_'s web application framework to provide an interactive and easy-to-use interface for analyzing your chat data.
+
